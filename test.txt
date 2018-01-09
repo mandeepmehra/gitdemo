@@ -1,4 +1,4 @@
 test
 123 
 new line
-made  a change in master
+made  a change in master - feature added
