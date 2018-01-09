@@ -5,4 +5,4 @@ made  a change in master - feature added
 HOtfix done
 Working on Story 001 - Done
 Hotfix done
-Working on US002
+Working on US002 - Done
