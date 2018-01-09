@@ -1,1 +1,2 @@
 this is a footer file
+Added hotfix
